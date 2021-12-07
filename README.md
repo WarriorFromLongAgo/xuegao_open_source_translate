@@ -1,0 +1,2 @@
+# xuegao_open_source_translate
+一些开源项目的翻译，正确的文档请关注官方网站
